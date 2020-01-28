@@ -1,0 +1,44 @@
+ a:to link a website 
+ attributes: href
+ ex:<a href="https://www.vsb.bc.ca/Pages/default.aspx"> a website</a>
+ 
+ h1: Header tag, makes the text large and puts it on a separate line. Good for making titles or heading.
+ attributes: none
+ ex: <h1> Austin Xu</h1>
+ 
+ h6: Header tag, like h1 but the text is smaller. There are header tags from h1 to h6. h6 is the smallest. Good for subheadings
+attributes: none
+ex: <h6> things I like </h6> 
+ 
+ img: to load image to your website
+ attributes: src
+ ex: <img src="lbjtt.jpg">
+ 
+ li: to identify which item you want in the list
+ attributtes: none
+ex: <li>basketball</li>
+<li>videogames</li>
+<li>lebron james </li>
+ 
+ 
+ 
+ ol: to group a list of things together with number
+ attributes:none
+ ex:<ol>
+<li>science</li>
+<li>english</li>
+<li>social studies</li>
+</ol>
+ 
+ p:to make a paragraph and start a another line 
+ attributes:none
+ ex:<p>i like to play basketball and videogames.</p>
+ 
+ 
+ ul:to group a list of things in dots
+ attributes: none
+ex: <ul>
+<li>basketball</li>
+<li>videogames</li>
+<li>lebron james </li>
+</ul>
